@@ -1,3 +1,3 @@
 output "asg" {
-    value = aws_autoscaling_group.asg
+  value = aws_autoscaling_group.asg
 }
